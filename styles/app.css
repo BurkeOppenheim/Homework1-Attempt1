@@ -1,0 +1,86 @@
+header {
+  text-align: center;
+  color: white;
+}
+a {color: #00d59d;
+}
+
+ul {
+  padding: 10px;
+  text-align: center;
+}
+li {
+  display: inline;
+  padding: 0px 10px 0px 10px;
+  font-family: sans-serif;
+  font-weight: bold;
+}
+.bar {
+  font-size: 20px;
+  color:white;
+}
+body {
+  background-color: #444444;
+  padding: 50px;
+  margin: 0 auto;
+  border: 2px solid white;
+  margin: 20px 20px 20px 20px;
+}
+p {
+  color: white;
+  font-family: georgia;
+  line-height: 1.5;
+
+}
+li p {
+  color: white;
+  font-family: georgia;
+  line-height: 1.5;
+
+}
+
+h1 {
+  font-size: 25px;
+  font-family: sans-serif;
+  font-style: bold;
+  color: white;
+}
+h2 {
+  font-size: 20px;
+  font-family: sans-serif;
+  color: gray;
+}
+img {
+  margin: 40px 40px 40px 40px;
+  padding: 5px;
+  border: 1px solid white;
+  display: inline;
+  float: right;
+}
+.jobtitle {
+  font-size: 20px;
+  font-family: sans-serif;
+  font-style: bold;
+  color: white;
+  }
+.company {
+  font-size: 20px;
+  font-family: sans-serif;
+  color: white;
+  font-style: light;
+}
+.years {
+  color: gray;
+  font-family: sans-serif;
+  line-height: 1.5;
+  font-style: light;
+}
+.resume ul {
+  text-align: left;
+  padding: 10px;
+}
+hr {
+    margin: 0 auto;
+    border-style: inset;
+    border-width: 1px;
+}
